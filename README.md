@@ -1,1 +1,1 @@
-# EyeBlink Repository
+# Eclipse and git project
